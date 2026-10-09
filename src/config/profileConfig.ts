@@ -27,23 +27,11 @@ export const profileConfig: ProfileConfig = {
 			url: "https://github.com/ShiJiu102",
 			showName: false,
 		},
-		// {
-		// 	name: "Email",
-		// 	icon: "fa7-solid:envelope",
-		// 	url: "suertex@qq.com",
-		// 	showName: false,
-		// },
 		{
 			name: "RSS",
 			icon: "fa7-solid:rss",
 			url: "/rss/",
 			showName: false,
 		},
-		// {
-		// 	name: "Atom",
-		// 	icon: "fa7-solid:atom",
-		// 	url: "/atom/",
-		// 	showName: false,
-		// },
 	],
 };
