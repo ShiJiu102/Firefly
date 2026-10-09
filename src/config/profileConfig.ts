@@ -39,11 +39,11 @@ export const profileConfig: ProfileConfig = {
 			url: "/rss/",
 			showName: false,
 		},
-		{
-			name: "Atom",
-			icon: "fa7-solid:atom",
-			url: "/atom/",
-			showName: false,
-		},
+		// {
+		// 	name: "Atom",
+		// 	icon: "fa7-solid:atom",
+		// 	url: "/atom/",
+		// 	showName: false,
+		// },
 	],
 };
